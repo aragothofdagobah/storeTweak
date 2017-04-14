@@ -1,3 +1,5 @@
 $(document).ready(function(){
-  console.log("hello world");
+  $('.header-logo-image').mouseenter(function() {
+    console.log("hello world");
+  });
 });
