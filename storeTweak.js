@@ -1,5 +1,5 @@
 $(document).ready(function(){
   $("#test").hover(function(){
-    this.width(400);
+    console.log("hello");
   })
 });
